@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.idea
+.codekiwi
+*.sqlite3
+*pyc
+__pycache__
