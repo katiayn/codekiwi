@@ -1,0 +1,9 @@
+dj-database-url==0.4.2
+Django==1.10.5
+factory-boy==2.8.1
+Faker==0.7.7
+gunicorn==19.6.0
+psycopg2==2.6.2
+python-dateutil==2.6.0
+python-decouple==3.0
+six==1.10.0
